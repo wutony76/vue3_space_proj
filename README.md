@@ -1,10 +1,6 @@
 # vue3 space proj
 
-Vue 3 專案，v12.22.12
-
-## License
-
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
+Vue 3 專案，v22
 
 ---
 
